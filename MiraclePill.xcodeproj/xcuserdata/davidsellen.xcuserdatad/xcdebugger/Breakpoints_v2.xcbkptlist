@@ -26,11 +26,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MiraclePill/ViewController.swift"
-            timestampString = "514868668.195281"
+            timestampString = "514869061.039579"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "66"
-            endingLineNumber = "66"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
             landmarkName = "buyNowPressed(_:)"
             landmarkType = "7">
          </BreakpointContent>

@@ -62,6 +62,7 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
     @IBAction func buyNowPressed(_ sender: Any) {
         let image: UIImage = UIImage(named: "successIndicator")!
         let imageView = UIImageView(image: image)
+        imageView.contentMode = .scaleAspectFit
         self.view.addSubview(imageView)
         
     }
